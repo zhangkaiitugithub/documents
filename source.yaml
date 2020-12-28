@@ -64,3 +64,7 @@
   options:
     channel: sharecentre
     num: 300
+- type: tgchannel
+  options:
+    channel: gongyijichangfenxiang
+    num: 300
