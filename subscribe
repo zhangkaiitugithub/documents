@@ -1,0 +1,30 @@
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/v2ray
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/fqnews/bnews@latest/vs/v2.txt
+- type: subscribe
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/vmess/vs.txt
+- type: subscribe
+  options:
+    url: https://vmess.llt.workers.dev
+- type: subscribe
+  options:
+    url: https://v2ray-luck.netlify.app
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app
+- type: subscribe
+  options:
+    url: https://iwxf.netlify.app
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.com
+- type: subscribe
+  options:
+    url: https://xincmg.github.io
+- type: subscribe
+  options:
+    url: https://fforever.github.io/v2rayfree
