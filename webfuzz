@@ -1,6 +1,2 @@
-- type: webfuzz
-  options:
-    url: https://fuqianghome.com/v2ray.html
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
+https://fuqianghome.com/v2ray.html
+https://merlinblog.xyz/wiki/freess.html
