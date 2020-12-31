@@ -1,16 +1,13 @@
-- type: webfuzz
+- type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/webfuzz
-
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/webfuzzsub
-
-- type: subscribe
+- type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
-
-- type: clash
+- type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/clash
 
