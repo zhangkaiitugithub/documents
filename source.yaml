@@ -3,9 +3,6 @@
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/webfuzz
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/webfuzzsub
-- type: webfuzzsub
-  options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
 - type: webfuzzsub
   options:
