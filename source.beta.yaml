@@ -1,6 +1,6 @@
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/clash
+    url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe.beta
 
 - type: tgchannel
   options:
