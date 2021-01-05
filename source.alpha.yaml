@@ -1,6 +1,6 @@
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
+    url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe.alpha
 
 - type: tgchannel
   options:
