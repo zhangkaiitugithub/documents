@@ -29,11 +29,3 @@
   options:
     channel: sharecentre
     num: 300
-- type: tgchannel
-  options:
-    channel: gongyijichangfenxiang
-    num: 300
-- type: tgchannel
-  options:
-    channel: mtproxy666
-    num: 300
