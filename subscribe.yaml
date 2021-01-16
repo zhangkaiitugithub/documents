@@ -14,3 +14,7 @@
   options:
     channel: jiedianfenxiang
     num: 300
+- type: tgchannel
+  options:
+    channel: daolis_miao
+    num: 300
