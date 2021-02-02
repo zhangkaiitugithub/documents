@@ -1,20 +1,3 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
-
-- type: tgchannel
-  options:
-    channel: NetfreexSrV
-    num: 300
-- type: tgchannel
-  options:
-    channel: yg251153
-    num: 300
-- type: tgchannel
-  options:
-    channel: jiedianfenxiang
-    num: 300
-- type: tgchannel
-  options:
-    channel: daolis_miao
-    num: 300
