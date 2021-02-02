@@ -14,7 +14,3 @@
   options:
     channel: sharecentre
     num: 300
-- type: tgchannel
-  options:
-    channel: sssocket5
-    num: 300
