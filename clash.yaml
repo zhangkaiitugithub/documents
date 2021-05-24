@@ -9,7 +9,3 @@
   options:
     channel: V2List
     num: 300
-- type: tgchannel
-  options:
-    channel: sharecentre
-    num: 300
