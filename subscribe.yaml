@@ -3,13 +3,9 @@
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
 - type: tgchannel
   options:
-    channel: NetfreexSrV
+    channel: sharecentre
     num: 300
 - type: tgchannel
   options:
-    channel: yg251153
-    num: 300
-- type: tgchannel
-  options:
-    channel: jiedianfenxiang
+    channel: baipiao_v2
     num: 300
