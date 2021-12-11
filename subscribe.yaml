@@ -1,19 +1,9 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/nsfwdocnet/documents/main/subscribe
-- type: tgchannel
+- type: subscribe
   options:
-    channel: sharecentre
-    num: 300
-- type: tgchannel
+    url: https://www.linbaoz.com/vmess/sub
+- type: subscribe
   options:
-    channel: baipiao_v2
-    num: 300
-- type: tgchannel
-  options:
-    channel: v2ray666
-    num: 300
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 300
+    url: https://www.linbaoz.com/trojan/sub
